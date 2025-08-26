@@ -29,3 +29,7 @@ ex) "/home/ty/.cache/kagglehub/datasets/jutrera/stanford-car-dataset-by-classes-
 <img width="1230" height="638" alt="image" src="https://github.com/user-attachments/assets/a2f8c969-03cf-4c4e-b10e-39adb98719ad" />
 
 수정사항 적용 후 python3 test2.py
+
+# 오류 해결
+test2.py 파일 이슈가 몇개 있어서 수정 후
+final.py 새로 업로드했습니다.
