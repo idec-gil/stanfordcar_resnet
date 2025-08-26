@@ -17,5 +17,11 @@ ex) LUT_ROOT = "/home/ty/IDEC/brain_mri/value2"
 
 # kaggleimport를 통해 불러온 데이터셋 읽기
 
+위와 방식 동일
 ex) "/home/ty/.cache/kagglehub/datasets/jutrera/stanford-car-dataset-by-classes-folder/versions/2/car_data/car_data/test/"
 이걸 271 번째 줄에 복사해서 붙여넣기
+
+# 수정 사항
+<img width="1230" height="638" alt="image" src="https://github.com/user-attachments/assets/a2f8c969-03cf-4c4e-b10e-39adb98719ad" />
+
+수정사항 적용 후 python3 test2.py
