@@ -6,7 +6,9 @@ python3 importkaggle.py
 
 # brain_mri에 있는 pot, dep txt 파일 불러오기
 (way1)
+
 <img width="606" height="520" alt="image" src="https://github.com/user-attachments/assets/bebc81ad-d70d-4ad0-9b2a-003cfae787cf" />
+
 
 (way2)
 copy file path를 통해서도 pwd 경로 생성됨
