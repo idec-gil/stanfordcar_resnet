@@ -7,7 +7,7 @@ pip install kagglehub
 python3 importkaggle.py
 
 # brain_mri에 있는 pot, dep txt 파일 불러오기
-<img width="475" height="389" alt="image" src="https://github.com/user-attachments/assets/51cd5a34-f51d-4cde-bb91-08c5ffea032b" />
+<img width="606" height="520" alt="image" src="https://github.com/user-attachments/assets/bebc81ad-d70d-4ad0-9b2a-003cfae787cf" />
 copy file path를 통해서도 pwd 경로 생성됨
 
 cd ../../brain_mri/value2 로 이동 후 pwd를 누르면 경로 생성
